@@ -9,7 +9,7 @@ I am a student in the 7th semester of Science and Systems Engineering at the Uni
     - Play Basketball 🏀
     - To program 👨🏻‍💻
     - Watch series 👀
-    - Read a book about science fiction 📖
+    - Read books about science fiction 📖
 ~~~
 
 
